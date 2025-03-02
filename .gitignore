@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Local development
+*.log
+*.sqlite3
+
+# Game specific
+highscores.json
+
+# System files
+.DS_Store
+Thumbs.db
